@@ -1,0 +1,12 @@
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\AgileHW.DataAccess.dll.config
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\AgileHW.DataAccess.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\AgileHW.DataAccess.pdb
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\AutoMapper.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\EntityFramework.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\AutoMapper.xml
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\EntityFramework.xml
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\obj\Debug\AgileHW.DataAccess.csprojResolveAssemblyReference.cache
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\obj\Debug\AgileHW.DataAccess.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.DataAccess\obj\Debug\AgileHW.DataAccess.pdb

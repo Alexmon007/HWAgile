@@ -1,0 +1,13 @@
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\obj\Debug\AgileHW.Business.csprojResolveAssemblyReference.cache
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\AgileHW.Business.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\AgileHW.Business.pdb
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\AgileHW.DataAccess.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\AutoMapper.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\Common.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\EntityFramework.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\AgileHW.DataAccess.pdb
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\Common.pdb
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\AutoMapper.xml
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\EntityFramework.xml
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\obj\Debug\AgileHW.Business.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\obj\Debug\AgileHW.Business.pdb
