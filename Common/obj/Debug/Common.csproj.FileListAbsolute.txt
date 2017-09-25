@@ -1,0 +1,5 @@
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\bin\Debug\Common.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\bin\Debug\Common.pdb
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\obj\Debug\Common.dll
+c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\obj\Debug\Common.pdb
