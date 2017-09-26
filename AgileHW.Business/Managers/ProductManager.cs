@@ -29,9 +29,19 @@ namespace AgileHW.Business.Managers
         {
             return _mapper.Map<List<Product>, List<ProductDTO>>(_productRepository.getAll().ToList()); ;
         }
-        public void Add(ProductDTO product)
+        public void Add(ProductDTO productDTO)
         {
-            this._productRepository.Add(_mapper.Map<ProductDTO,Product>(product));
+            if (productDTO == null) throw new NullReferenceException();
+            if (String.IsNullOrEmpty(productDTO.Name)) throw new ArgumentException("Name is missing");
+            if (String.IsNullOrEmpty(productDTO.Brand)) throw new ArgumentException("Name is missing");
+            if (String.IsNullOrEmpty(productDTO.OriginCountry)) throw new ArgumentException("Name is missing");
+            if (String.IsNullOrEmpty(productDTO.Serial)) throw new ArgumentException("Name is missing");
+            if (productDTO.Quantity<=0) throw new ArgumentException("Invalid Quantity");
+            if(productDTO.Quantity>999) throw new ArgumentException("Over Limit Quantity");
+            if (productDTO.ReleaseDate ==DateTime.MinValue) throw new ArgumentException("Invalid Release Date");
+
+            var product = _mapper.Map<ProductDTO, Product>(productDTO);
+            this._productRepository.Add(product);
         }
     }
 }

@@ -12,6 +12,7 @@ namespace AgileHW.DataAccess.DBModels
        
         [Required]
         public string Name { get; set; }
+        public string Description { get; set; }
         [Required]
         public int Quantity { get; set; }
         [Required]
@@ -19,7 +20,7 @@ namespace AgileHW.DataAccess.DBModels
         [Required]
         public string OriginCountry { get; set; }
         [Required]
-        public string SeriaNumber { get; set; }
+        public string Serial { get; set; }
         [Required]
         public DateTime ReleaseDate { get; set; }
        

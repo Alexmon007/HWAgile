@@ -3,3 +3,8 @@ c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\b
 c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\obj\Debug\Common.dll
 c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\Common\obj\Debug\Common.pdb
+D:\Repos\HWAgile\Common\bin\Debug\Common.dll
+D:\Repos\HWAgile\Common\bin\Debug\Common.pdb
+D:\Repos\HWAgile\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Repos\HWAgile\Common\obj\Debug\Common.dll
+D:\Repos\HWAgile\Common\obj\Debug\Common.pdb

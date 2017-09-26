@@ -11,10 +11,11 @@ namespace Common.Models
     {
         public int ID { get; set; }
         public string Name { get; set; }
+        public string Description { get; set; }
         public int Quantity { get; set; }
         public string Brand { get; set; }
         public string OriginCountry { get; set; }
-        public string SeriaNumber { get; set; }
+        public string Serial { get; set; }
         public DateTime ReleaseDate { get; set; }
         public DateTime CreatedDate { get; set; }
     }

@@ -11,3 +11,18 @@ c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.
 c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\bin\Debug\EntityFramework.xml
 c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\obj\Debug\AgileHW.Business.dll
 c:\Users\alejandrocruz\documents\visual studio 2015\Projects\AgileHW.UI\AgileHW.Business\obj\Debug\AgileHW.Business.pdb
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\AgileHW.Business.dll
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\AgileHW.Business.pdb
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\AgileHW.DataAccess.dll
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\AutoMapper.dll
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\Common.dll
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\EntityFramework.dll
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\AgileHW.DataAccess.pdb
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\AgileHW.DataAccess.dll.config
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\Common.pdb
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\AutoMapper.xml
+D:\Repos\HWAgile\AgileHW.Business\bin\Debug\EntityFramework.xml
+D:\Repos\HWAgile\AgileHW.Business\obj\Debug\AgileHW.Business.csprojResolveAssemblyReference.cache
+D:\Repos\HWAgile\AgileHW.Business\obj\Debug\AgileHW.Business.csproj.CoreCompileInputs.cache
+D:\Repos\HWAgile\AgileHW.Business\obj\Debug\AgileHW.Business.dll
+D:\Repos\HWAgile\AgileHW.Business\obj\Debug\AgileHW.Business.pdb

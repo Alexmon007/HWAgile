@@ -10,7 +10,6 @@
 //------------------------------------------------------------------------------
 
 using AgileHW.UI;
-using AgileHW.UI.ViewModels;
 using System;
 using System.Diagnostics;
 using System.Windows;
